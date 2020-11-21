@@ -29,3 +29,8 @@
 It is a Frontend design for Multi-step Signup form. The Animations of the design provides it a Professional Look and Feel.
 
 # Snapshots
+![301](https://user-images.githubusercontent.com/57063763/99876341-354edf80-2c1c-11eb-9094-ab4a35233283.png)
+![302](https://user-images.githubusercontent.com/57063763/99876343-36800c80-2c1c-11eb-92ad-c555949f7815.png)
+![303](https://user-images.githubusercontent.com/57063763/99876344-3718a300-2c1c-11eb-8566-d5f6f008d83a.png)
+![304](https://user-images.githubusercontent.com/57063763/99876345-37b13980-2c1c-11eb-9983-06a8f37213ef.png)
+![305](https://user-images.githubusercontent.com/57063763/99876346-37b13980-2c1c-11eb-8925-7d2e5299553c.png)
